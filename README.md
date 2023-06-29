@@ -3,7 +3,7 @@
 <table border="1">
   <tr>
     <td  colspan="2">
-      <b color="red">Настройка имя и email автора после установки git</b>
+      <b>Настройка имя и email автора после установки git</b>
     </td>
   </tr>
   <!--  -->
@@ -23,7 +23,9 @@
   </tr>
   <!--  -->
   <tr>
-    <td  colspan="2" style="color:red;">Работа в командной строке</td>
+    <td  colspan="2">
+      <b>Работа в командной строке</b>
+    </td>
   </tr>
   <!--  -->
   <tr>
@@ -62,7 +64,9 @@
   </tr>
   <!--  -->
   <tr>
-    <td  colspan="2" style="color:red;">Создание нового репозитория</td>
+    <td  colspan="2">
+      <b>Создание нового репозитория</b>
+    </td>
   </tr>
   <!--  -->
   <tr>
@@ -121,7 +125,9 @@
   </tr>
   <!--  -->
   <tr>
-    <td colspan="2" style="color:red;">Ветки в git</td>
+    <td colspan="2">
+      <b>Ветки в git</b>
+    </td>
   </tr>
   <!--  -->
   <tr>
@@ -155,7 +161,9 @@
   </tr>
   <!--  -->
   <tr>
-    <td colspan="2" style="color:red;">Слияние веток</td>
+    <td colspan="2">
+     <b> Слияние веток</b>
+    </td>
   </tr>
   <!--  -->
   <tr>
