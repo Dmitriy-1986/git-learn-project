@@ -1,6 +1,15 @@
-# git-learn-project
+#git-learn-project
+
 <table border="1">
   <tr>
-    <td>1</td><td>2</td><td>3</td>
+    <td  colspan="2">
+      Настройка имя и email автора после установки git
+    </td>
+    <td>git config --global user.name <..></td>
+    <td>настройки имени автора</td>
+    <td>git config --global user.email <..></td>
+    <td>настройки почты автора</td>
+    <td>git config --list</td>
+    <td>выводит все настройки git</td>
   </tr>
 </table>
