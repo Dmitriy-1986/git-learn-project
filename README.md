@@ -1,6 +1,6 @@
 #git-learn-project
 
-<table border="1" width="100%">
+<table border="1" style="width:100%;">
   <tr>
     <td  colspan="2">
       Настройка имя и email автора после установки git
