@@ -1,4 +1,4 @@
->git-learn-project
+><h2>Шпаргалка по командной строке Git</h2>
 
 <table border="1">
   <tr>
