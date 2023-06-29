@@ -3,7 +3,7 @@
 <table border="1">
   <tr>
     <td  colspan="2">
-      <b style="color:red;">Настройка имя и email автора после установки git</b>
+      <b color="red">Настройка имя и email автора после установки git</b>
     </td>
   </tr>
   <!--  -->
