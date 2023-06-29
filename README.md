@@ -2,8 +2,8 @@
 
 <table border="1">
   <tr>
-    <td  colspan="2" style="color:red;">
-      Настройка имя и email автора после установки git
+    <td  colspan="2">
+      <b style="color:red;">Настройка имя и email автора после установки git</b>
     </td>
   </tr>
   <!--  -->
