@@ -195,4 +195,25 @@
     <td>отправка в локальный репозиторий из GitHub</td>
   </tr>
   <!--  -->
+      <tr>
+    <td>git remote add origin <url></td>
+    <td>подключение удаленного репозитория</td>
+  </tr>
+  <!--  -->
+      <tr>
+    <td>mv test-page.txt test folder</td>
+    <td>mv перемещение файла test-page.txt в папку test-folder</td>
+  </tr>
+  <!--  -->
 </table>
+
+
+
+
+
+
+
+
+
+
+
